@@ -1,0 +1,6 @@
+execution_env=remote
+#execution_env=local
+opencartURL=https://tutorialsninja.com/demo/
+email=yogesh8453@gmail.com
+password=Test@123
+searchProductName=iphone

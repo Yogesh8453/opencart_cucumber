@@ -1,0 +1,12 @@
+13:20:01:153 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - ****Finished the TC001_VerifyAccountRegistrationPage..****
+13:20:06:115 [main] INFO  testCases.TC002_LoginTest - ***TC002_LoginTest Started***
+12:39:31:802 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Yogesh\Eclipse\OpenCart1.0\master.xml"
+12:40:20:949 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Yogesh\Eclipse\OpenCart1.0\master.xml"
+12:40:29:073 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Starting TC001_VerifyAccountRegistrationPage Test***
+12:40:29:607 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Clicked on MyAccount Link***
+12:40:30:134 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Clicked on Register Link***
+12:40:30:137 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Providing Customer details***
+12:40:32:253 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - *** Validating expected message***
+12:40:32:345 [main] INFO  testCases.TC001_VerifyAccountRegistrationPage - ****Finished the TC001_VerifyAccountRegistrationPage..****
+12:40:36:372 [main] INFO  testCases.TC002_LoginTest - ***TC002_LoginTest Started***
+12:40:38:132 [main] INFO  testCases.TC002_LoginTest - ****TC002 LoginTest Complete****

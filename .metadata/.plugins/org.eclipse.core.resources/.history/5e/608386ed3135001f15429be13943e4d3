@@ -1,0 +1,15 @@
+package utilities;
+
+public class DataProviders {
+	
+	//DataProvider 1 for the Login scenarios
+	
+	@DataProviders(name="LoginData")
+	public String[][] getdata()
+	{
+		
+	}
+	
+	
+
+}
